@@ -6,6 +6,14 @@ An animated loading ellipsis.
 Dependency-free, but can be used with AngularJS.
 
 
+Installation
+------------
+
+Install ellipsis-animated by running:
+
+    bower install ellipsis-animated
+
+
 Usage
 -----
 
