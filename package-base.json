@@ -1,0 +1,11 @@
+{
+    "name": "angular.ellipsis-animated",
+    "repository": "https://bitbucket.org/bodylabs/angular.ellipsis-animated",
+    "devDependencies": {
+        "bower": "~1.3.9",
+        "grunt": "~>0.4.1",
+        "grunt-contrib-jshint": "~>0.6.4",
+        "grunt-lint-pattern": "~>0.1.4",
+        "http-server": "~>0.6.1"
+    }
+}

@@ -1,0 +1,48 @@
+# These are from https://github.com/github/gitignore
+
+####################
+# Mac OS
+####################
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+####################
+# Node
+####################
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+build
+
+node_modules
+
+
+####################
+# Local
+####################
+
+/dev-tools
+/bower_components
+/package.json

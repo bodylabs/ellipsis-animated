@@ -1,0 +1,34 @@
+{
+    "name": "angular.ellipsis-animated",
+    "version": "0.1.0",
+    "main": [
+        "src/ellipsisAnimated.js",
+        "src/ellipsisAnimated.css"
+    ],
+    "keywords": [
+        "ellipsis",
+        "loading",
+        "animation",
+        "css",
+        "angular"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "tests",
+        "Gruntfile.js",
+        "karma*conf.js",
+        "package.json",
+        "package-base.json",
+        "s3_assets.yaml",
+        "Rakefile",
+        "rake",
+        "*.spec.js"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+        "angular": ">=1"
+    }
+}
