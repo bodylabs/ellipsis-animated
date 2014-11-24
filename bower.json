@@ -2,8 +2,8 @@
     "name": "angular.ellipsis-animated",
     "version": "0.1.0",
     "main": [
-        "src/ellipsisAnimated.js",
-        "src/ellipsisAnimated.css"
+        "src/ellipsis-animated.js",
+        "src/ellipsis-animated.css"
     ],
     "keywords": [
         "ellipsis",
